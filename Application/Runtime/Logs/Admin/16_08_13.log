@@ -1,0 +1,1891 @@
+[ 2016-08-13T11:00:08+08:00 ] 127.0.0.1 /index.php/Admin/goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'php39.p39_brands' doesn't exist
+
+[ 2016-08-13T11:01:50+08:00 ] 127.0.0.1 /index.php/Admin/goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'php39.p39_brands' doesn't exist
+
+[ 2016-08-13T11:02:33+08:00 ] 127.0.0.1 /index.php/Admin/goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0377s ]
+SQL: SELECT * FROM `p39_brand`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-08-13T11:04:50+08:00 ] 127.0.0.1 /index.php/Admin/goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0024s ]
+SQL: SELECT * FROM `p39_brand`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+
+[ 2016-08-13T11:04:51+08:00 ] 127.0.0.1 /index.php/Admin/goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `p39_brand`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-08-13T11:05:17+08:00 ] 127.0.0.1 /index.php/Admin/goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000484s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0217s ]
+SQL: SELECT * FROM `p39_brand`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007367s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007578s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000476s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2016-08-13T11:05:54+08:00 ] 127.0.0.1 /index.php/Admin/brand/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000345s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030279s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000677s ]
+
+[ 2016-08-13T11:06:12+08:00 ] 127.0.0.1 /index.php/Admin/brand/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0032s ]
+SQL: INSERT INTO `p39_brand` (`brand_name`,`site_url`) VALUES ('三星','') [ RunTime:0.0093s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023661s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000256s ]
+
+[ 2016-08-13T11:06:13+08:00 ] 127.0.0.1 /index.php/Admin/Brand/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0034s ]
+SQL: SELECT COUNT(*) AS tp_count FROM p39_brand a LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM p39_brand a GROUP BY a.id LIMIT 0,20   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021122s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-08-13T11:06:17+08:00 ] 127.0.0.1 /index.php/Admin/Brand/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000617s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000147s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006404s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006496s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000936s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001091s ]
+
+[ 2016-08-13T11:06:21+08:00 ] 127.0.0.1 /index.php/Admin/Brand/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000488s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0100s ]
+SQL: INSERT INTO `p39_brand` (`brand_name`,`site_url`) VALUES ('华为','') [ RunTime:0.0134s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004641s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004707s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000259s ]
+
+[ 2016-08-13T11:06:22+08:00 ] 127.0.0.1 /index.php/Admin/Brand/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0023s ]
+SQL: SELECT COUNT(*) AS tp_count FROM p39_brand a LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM p39_brand a GROUP BY a.id LIMIT 0,20   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006145s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006217s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-08-13T11:06:32+08:00 ] 127.0.0.1 /index.php/Admin/Brand/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006783s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001273s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001463s ]
+
+[ 2016-08-13T11:06:43+08:00 ] 127.0.0.1 /index.php/Admin/Brand/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0025s ]
+SQL: INSERT INTO `p39_brand` (`brand_name`,`site_url`) VALUES ('联想','') [ RunTime:0.0169s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000119s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004841s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004919s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000262s ]
+
+[ 2016-08-13T11:06:44+08:00 ] 127.0.0.1 /index.php/Admin/Brand/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0024s ]
+SQL: SELECT COUNT(*) AS tp_count FROM p39_brand a LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM p39_brand a GROUP BY a.id LIMIT 0,20   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008269s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008441s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000552s ]
+
+[ 2016-08-13T11:06:50+08:00 ] 127.0.0.1 /index.php/Admin/goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0062s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012285s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012379s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000603s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-08-13T11:07:01+08:00 ] 127.0.0.1 /index.php/Admin/goods
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+ERR: 非法操作:index
+
+[ 2016-08-13T11:07:12+08:00 ] 127.0.0.1 /index.php/Admin/goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000970s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `p39_brand`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007747s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2016-08-13T11:08:21+08:00 ] 127.0.0.1 /index.php/Admin/goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001734s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `p39_brand`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000427s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007938s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008056s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000819s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000892s ]
+
+[ 2016-08-13T11:13:21+08:00 ] 127.0.0.1 /index.php/Admin/goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002556s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0052s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008773s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000620s ]
+
+[ 2016-08-13T11:13:26+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 6,3   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007809s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007926s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000212s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2016-08-13T11:13:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0039s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 3,3   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007882s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008010s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-08-13T11:13:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007910s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000515s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000587s ]
+
+[ 2016-08-13T11:14:23+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/8.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0031s ]
+SQL: SELECT * FROM `p39_goods` WHERE `id` = 8 LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005977s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000452s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-08-13T11:14:52+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001942s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0027s ]
+SQL: SELECT * FROM `p39_brand`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006950s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007029s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000502s ]
+
+[ 2016-08-13T11:15:16+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001457s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0051s ]
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'logo' doesn't have a default value
+
+[ 2016-08-13T11:15:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002572s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002671s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `p39_brand`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000188s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009701s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009867s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001318s ]
+
+[ 2016-08-13T11:15:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0046s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `p39_goods` (`goods_name`,`shop_price`,`is_on_sale`,`market_price`,`goods_desc`,`logo`,`mbig_logo`,`big_logo`,`mid_logo`,`sm_logo`,`addtime`) VALUES ('NOTO5','4999','1','52222','','goods/2016-08-13/57ae90e0a4d73.jpg','goods/2016-08-13/thumb_0_57ae90e0a4d73.jpg','goods/2016-08-13/thumb_1_57ae90e0a4d73.jpg','goods/2016-08-13/thumb_2_57ae90e0a4d73.jpg','goods/2016-08-13/thumb_3_57ae90e0a4d73.jpg','2016-08-13 11-15-44') [ RunTime:0.0223s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000104s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007920s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007992s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-08-13T11:15:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0033s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009088s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009171s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000799s ]
+
+[ 2016-08-13T23:03:38+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002014s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0215s ]
+SQL: SELECT * FROM `p39_brand`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000244s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.108683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.108942s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001844s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001861s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002029s ]
+
+[ 2016-08-13T23:04:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001977s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0045s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `p39_goods` (`goods_name`,`shop_price`,`is_on_sale`,`market_price`,`goods_desc`,`logo`,`mbig_logo`,`big_logo`,`mid_logo`,`sm_logo`,`addtime`) VALUES ('noto3','2999','1','3111','','goods/2016-08-13/57af36f134831.jpg','goods/2016-08-13/thumb_0_57af36f134831.jpg','goods/2016-08-13/thumb_1_57af36f134831.jpg','goods/2016-08-13/thumb_2_57af36f134831.jpg','goods/2016-08-13/thumb_3_57af36f134831.jpg','2016-08-13 23-04-17') [ RunTime:0.0246s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000125s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000312s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036782s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036936s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001376s ]
+
+[ 2016-08-13T23:04:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000768s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-08-13T23:05:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `p39_brand`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006606s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006694s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000302s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000643s ]
+
+[ 2016-08-13T23:06:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0034s ]
+
+[ 2016-08-13T23:09:17+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001033s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000784s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0058s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `p39_goods` (`goods_name`,`shop_price`,`is_on_sale`,`market_price`,`goods_desc`,`logo`,`mbig_logo`,`big_logo`,`mid_logo`,`sm_logo`,`addtime`) VALUES ('P6','1555','1','1666','','goods/2016-08-13/57af381ce488a.jpg','goods/2016-08-13/thumb_0_57af381ce488a.jpg','goods/2016-08-13/thumb_1_57af381ce488a.jpg','goods/2016-08-13/thumb_2_57af381ce488a.jpg','goods/2016-08-13/thumb_3_57af381ce488a.jpg','2016-08-13 23-09-16') [ RunTime:0.0151s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005294s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005370s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000438s ]
+
+[ 2016-08-13T23:09:18+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000782s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0024s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007300s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000622s ]
+
+[ 2016-08-13T23:09:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001342s ]
+SQL: SHOW COLUMNS FROM `p39_brand` [ RunTime:0.0022s ]
+SQL: SELECT * FROM `p39_brand`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000371s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007930s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000596s ]
+
+[ 2016-08-13T23:09:56+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000596s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0031s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\shop\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: INSERT INTO `p39_goods` (`brand_id`,`goods_name`,`shop_price`,`is_on_sale`,`market_price`,`goods_desc`,`logo`,`mbig_logo`,`big_logo`,`mid_logo`,`sm_logo`,`addtime`) VALUES ('4','thinkpad','38888','1','39999','','goods/2016-08-13/57af3843f2033.jpg','goods/2016-08-13/thumb_0_57af3843f2033.jpg','goods/2016-08-13/thumb_1_57af3843f2033.jpg','goods/2016-08-13/thumb_2_57af3843f2033.jpg','goods/2016-08-13/thumb_3_57af3843f2033.jpg','2016-08-13 23-09-56') [ RunTime:0.0227s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000121s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008321s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008396s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000418s ]
+
+[ 2016-08-13T23:09:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000631s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0024s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007572s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007653s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000621s ]
+
+[ 2016-08-13T23:10:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/edit/id/11.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001591s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002045s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `p39_goods` WHERE `id` = 11 LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000170s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030297s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000750s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000813s ]
+
+[ 2016-08-13T23:12:59+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001489s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0037s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008883s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-08-13T23:13:06+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001222s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0036s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006972s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001083s ]
+
+[ 2016-08-13T23:13:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0051s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007119s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007478s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000623s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000717s ]
+
+[ 2016-08-13T23:13:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_asc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id asc LIMIT 0,3   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007999s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008081s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-08-13T23:13:12+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0222s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007118s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007194s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-08-13T23:13:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=price_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001390s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0030s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY shop_price desc LIMIT 0,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006758s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000460s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000521s ]
+
+[ 2016-08-13T23:13:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=price_asc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY shop_price asc LIMIT 0,3   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007163s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000416s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-08-13T23:13:24+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0033s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008223s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008322s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-08-13T23:13:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_asc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002597s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id asc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008510s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008940s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000441s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000492s ]
+
+[ 2016-08-13T23:13:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0032s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008873s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000528s ]
+
+[ 2016-08-13T23:17:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0046s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008063s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008157s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2016-08-13T23:17:49+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0054s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008569s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008663s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000614s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000705s ]
+
+[ 2016-08-13T23:17:51+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_asc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0033s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id asc LIMIT 0,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008487s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008561s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-08-13T23:17:52+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=price_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0024s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY shop_price desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009145s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000427s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-08-13T23:17:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=price_asc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0047s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY shop_price asc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007148s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007224s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000408s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000475s ]
+
+[ 2016-08-13T23:17:55+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=price_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000522s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY shop_price desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007799s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000530s ]
+
+[ 2016-08-13T23:17:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0276s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007620s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007724s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000222s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-08-13T23:20:20+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0046s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000215s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008677s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2016-08-13T23:20:37+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_asc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0251s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id asc LIMIT 0,3   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007255s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007331s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000418s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2016-08-13T23:20:39+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=price_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001611s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0052s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY shop_price desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000120s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000220s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007657s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007746s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000551s ]
+
+[ 2016-08-13T23:20:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=price_asc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001556s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0032s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY shop_price asc LIMIT 0,3   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008198s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008285s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2016-08-13T23:20:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=price_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001814s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0045s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY shop_price desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007206s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000470s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000520s ]
+
+[ 2016-08-13T23:20:45+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=price_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY shop_price desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007161s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007237s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2016-08-13T23:20:46+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=price_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0043s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY shop_price desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010228s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010320s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000473s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-08-13T23:20:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=price_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0033s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY shop_price desc LIMIT 0,3   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007478s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007583s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000816s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000629s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000694s ]
+
+[ 2016-08-13T23:20:53+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=r&fp=&lp=&ios=&fa=&la=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0025s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` WHERE `goods_name` LIKE '%r%' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `p39_goods` WHERE `goods_name` LIKE '%r%' ORDER BY id desc LIMIT 0,3   [ RunTime:0.0021s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007804s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000434s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000489s ]
+
+[ 2016-08-13T23:22:32+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=r&fp=&lp=&ios=&fa=&la=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` WHERE `goods_name` LIKE '%r%' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p39_goods` WHERE `goods_name` LIKE '%r%' ORDER BY id desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 53 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 54 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 55 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008781s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008893s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000734s ]
+
+[ 2016-08-13T23:22:37+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000967s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 53 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 54 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 55 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014038s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014137s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001059s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001206s ]
+
+[ 2016-08-13T23:22:40+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_asc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0024s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id asc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000185s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 53 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 54 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 55 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009732s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009825s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.018106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.018246s ]
+
+[ 2016-08-13T23:22:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY id desc LIMIT 0,3   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000160s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 53 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 54 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 55 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009179s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009373s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2016-08-13T23:22:43+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=price_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000907s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `p39_goods` ORDER BY shop_price desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 53 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 54 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 55 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 56 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008745s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000609s ]
+
+[ 2016-08-13T23:30:57+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=price_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001440s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT a.*,b.brand_name FROM p39_goods a LEFT JOIN p39_brand b ON a.brand_id=b.id  ORDER BY shop_price desc LIMIT 0,3   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008681s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-08-13T23:31:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0063s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT a.*,b.brand_name FROM p39_goods a LEFT JOIN p39_brand b ON a.brand_id=b.id  ORDER BY id desc LIMIT 0,3   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000247s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011007s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000774s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000846s ]
+
+[ 2016-08-13T23:31:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT a.*,b.brand_name FROM p39_goods a LEFT JOIN p39_brand b ON a.brand_id=b.id  ORDER BY id desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000172s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009095s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009176s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-08-13T23:33:52+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0054s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT a.*,b.brand_name FROM p39_goods a LEFT JOIN p39_brand b ON a.brand_id=b.id  ORDER BY a.id desc LIMIT 0,3   [ RunTime:0.0036s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008607s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008687s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-08-13T23:33:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_asc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001338s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0028s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT a.*,b.brand_name FROM p39_goods a LEFT JOIN p39_brand b ON a.brand_id=b.id  ORDER BY a.id asc LIMIT 0,3   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000177s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007964s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008066s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000773s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000869s ]
+
+[ 2016-08-13T23:34:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=&fp=&lp=&ios=&fa=&la=&odby=id_desc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001550s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT a.*,b.brand_name FROM p39_goods a LEFT JOIN p39_brand b ON a.brand_id=b.id  ORDER BY a.id desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007548s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007637s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003233s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003445s ]
+
+[ 2016-08-13T23:34:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=r&fp=&lp=&ios=&fa=&la=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000546s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000905s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0033s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.goods_name' in 'where clause'
+
+[ 2016-08-13T23:49:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=r&fp=&lp=&ios=&fa=&la=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001010s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0028s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.goods_name' in 'where clause'
+
+[ 2016-08-13T23:49:11+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0026s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT a.*,b.brand_name FROM p39_goods a LEFT JOIN p39_brand b ON a.brand_id=b.id  ORDER BY a.id desc LIMIT 0,3   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009535s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000693s ]
+
+[ 2016-08-13T23:49:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=r&fp=&lp=&ios=&fa=&la=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000676s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0301s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.goods_name' in 'where clause'
+
+[ 2016-08-13T23:49:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT a.*,b.brand_name FROM p39_goods a LEFT JOIN p39_brand b ON a.brand_id=b.id  ORDER BY a.id desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000151s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008057s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000921s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000680s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2016-08-13T23:50:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=r&fp=&lp=&ios=&fa=&la=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0041s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.goods_name' in 'where clause'
+
+[ 2016-08-13T23:52:30+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001376s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `p39_goods` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT a.*,b.brand_name FROM p39_goods a LEFT JOIN p39_brand b ON a.brand_id=b.id  ORDER BY a.id desc LIMIT 0,3   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 49 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 50 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 51 行.
+NOTIC: [8] Undefined variable: obdy E:\shop\Application\Runtime\Cache\Admin\12cf6a5c74297688873998de0720405d.php 第 52 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008667s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000575s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+
+[ 2016-08-13T23:52:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/lst?gn=r&fp=&lp=&ios=&fa=&la=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001619s ]
+SQL: SHOW COLUMNS FROM `p39_goods` [ RunTime:0.0026s ]
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.goods_name' in 'where clause'
+
